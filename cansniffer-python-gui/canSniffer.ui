@@ -23,7 +23,7 @@
    </sizepolicy>
   </property>
   <property name="windowTitle">
-   <string>CanSniffer # canDrive 2020</string>
+   <string>CAN Sniffer ## DCG</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="sizePolicy">
